@@ -4,13 +4,16 @@
 
 :computer: Bachelor's Degree Student :computer:
 
-:earth_americas: Object Oriented Programming 
+:earth_americas: Object Oriented Programming: C++, Java, Python
 
-:globe_with_meridians: Functional Programming
+:globe_with_meridians: Functional Programming: Haskell
+
+:world_map: Database Management: SQL, PL/SQL
+
+:penguin: Operating systems: Linux
 
 * Good problem solving skills
 * Coding and debugging.
-* Managing database systems.
 * Editing source-code.
 * Extremely organised with a high level ofattention to details
 * Profiling and analyzing algorithms.
