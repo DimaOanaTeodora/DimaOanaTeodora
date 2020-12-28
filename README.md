@@ -14,7 +14,6 @@
 * Editing source-code.
 * Extremely organised with a high level ofattention to details
 * Profiling and analyzing algorithms.
-* Proactive and team player
 * Goal-oriented mindset
 * Ambitious, hard working, energetic and reliable
 
