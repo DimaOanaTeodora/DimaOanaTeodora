@@ -1,5 +1,7 @@
 # Hi, I'm Oana :wave:
 
+<img src="https://github.com/DimaOanaTeodora/Me/blob/main/programming.jpg" width="200" height="500" align="right"/>
+
 :computer: Bachelor's Degree Student :computer:
 
 :earth_americas: Object Oriented Programming 
@@ -17,4 +19,4 @@
 
 *I have the ability to work independently as well as being part of a team*
 
-<img src="" width="200" height="500" align="right"/>
+
