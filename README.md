@@ -17,7 +17,7 @@
 * Good problem solving skills
 * Coding and debugging.
 * Editing source-code.
-* Extremely organised with a high level ofattention to details
+* Extremely organised with a high level of attention to details
 * Profiling and analyzing algorithms.
 * Goal-oriented mindset
 * Ambitious, hard working, energetic and reliable
