@@ -4,13 +4,15 @@
 
 :computer: Bachelor's Degree Student :computer:
 
-:earth_americas: Object Oriented Programming: C++, Java, Python
+:peacock: Object Oriented Programming: C++, Java, Python
 
 :globe_with_meridians: Functional Programming: Haskell
 
 :world_map: Database Management: SQL, PL/SQL
 
 :penguin: Operating systems: Linux
+
+:earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
 
 * Good problem solving skills
 * Coding and debugging.
