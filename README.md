@@ -9,13 +9,9 @@
 :globe_with_meridians: Functional Programming
 
 * Good problem solving skills
-
 * Coding and debugging.
-
 * Managing database systems.
-
 * Editing source-code.
-
 * Extremely organised with a high level ofattention to details
 * Profiling and analyzing algorithms.
 * Proactive and team player
