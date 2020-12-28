@@ -1,4 +1,4 @@
-<img src="https://github.com/DimaOanaTeodora/Me/blob/main/programming.jpg" width="300" height="500" align="right"/>
+<img src="https://github.com/DimaOanaTeodora/Me/blob/main/programming.jpg" width="350" height="500" align="right"/>
 
 # Hi, I'm Oana :wave:
 
