@@ -1,15 +1,18 @@
+<img src="https://github.com/DimaOanaTeodora/Me/blob/main/programming.jpg" width="300" height="500" align="right"/>
 # Hi, I'm Oana :wave:
-
-<img src="https://github.com/DimaOanaTeodora/Me/blob/main/programming.jpg" width="200" height="500" align="right"/>
 
 :computer: Bachelor's Degree Student :computer:
 
 :earth_americas: Object Oriented Programming 
+
 :globe_with_meridians: Functional Programming
 
 -Good problem solving skills
+
 -Coding and debugging.
+
 -Managing database systems.
+
 -Editing source-code.
 -Extremely organised with a high level ofattention to details
 -Profiling and analyzing algorithms.
