@@ -15,6 +15,8 @@
 :earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
 :blue_heart: Frameworks: ASP.NET MVC 5
 
+:framed_picture: Statistical computing and graphics: R
+
 * Good problem solving skills
 * Coding and debugging.
 * Editing source-code.
