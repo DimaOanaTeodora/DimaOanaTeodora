@@ -2,7 +2,7 @@
 
 # Hi, I'm Oana :wave:
 
-:computer: Bachelor's Degree Student :computer:
+## :computer: Bachelor's Degree Student :computer:
 
 :peacock: Object Oriented Programming: C++, Java, Python
 
