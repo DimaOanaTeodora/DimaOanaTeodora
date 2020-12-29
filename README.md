@@ -13,6 +13,7 @@
 :penguin: Operating systems: Linux
 
 :earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
+:blue_heart: Frameworks: ASP.NET MVC 5
 
 * Good problem solving skills
 * Coding and debugging.
