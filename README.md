@@ -10,7 +10,7 @@
 
 :world_map: Database Management: SQL, PL/SQL
 
-:penguin: Operating systems: Linux
+:penguin: System calls, inter-process communication, threads, shell: Linux 
 
 :earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
 :blue_heart: Frameworks: ASP.NET MVC 5
