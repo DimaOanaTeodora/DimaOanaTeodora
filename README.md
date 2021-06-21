@@ -19,6 +19,8 @@
 
 :framed_picture: Statistical computing and graphics: R
 
+:star: New features: Haxe, Perforce, Typescript
+
 * Good problem solving skills
 * Coding and debugging.
 * Editing source-code.
