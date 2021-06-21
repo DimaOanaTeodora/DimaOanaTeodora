@@ -10,7 +10,7 @@
 
 :video_game: Game Engine: Godot
 
-:penguin: System calls, inter-process communication, threads, shell: Linux 
+:penguin: System calls, inter-process communication, threads, shell: C <-> Linux 
 
 :earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
 :blue_heart: Frameworks: ASP.NET MVC 5
