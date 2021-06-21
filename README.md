@@ -6,14 +6,16 @@
 
 :peacock: Object Oriented Programming: C++, Java, Python
 
-:globe_with_meridians: Functional Programming: Haskell
-
 :world_map: Database Management: SQL, PL/SQL
+
+:video_game: Game Engine: Godot
 
 :penguin: System calls, inter-process communication, threads, shell: Linux 
 
 :earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
 :blue_heart: Frameworks: ASP.NET MVC 5
+
+:crystal_ball: Functional Programming: Haskell
 
 :framed_picture: Statistical computing and graphics: R
 
