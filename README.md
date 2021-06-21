@@ -19,7 +19,7 @@
 
 :framed_picture: Statistical computing and graphics: R
 
-:star: <u>New features:</u> Haxe, Perforce, Typescript, Jira
+:star: <u> New features: </u> Haxe, Perforce, Typescript, Jira
 
 * Good problem solving skills
 * Coding and debugging.
