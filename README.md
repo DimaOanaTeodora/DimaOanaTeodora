@@ -13,13 +13,13 @@
 :penguin: System calls, inter-process communication, threads, shell: C <-> Linux 
 
 :earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
-:blue_heart: Frameworks: ASP.NET MVC 5
+:blue_heart: Frameworks: ASP.NET MVC 5, ASP.NET 5
 
 :crystal_ball: Functional Programming: Haskell
 
 :framed_picture: Statistical computing and graphics: R
 
-#### :star:New features: Haxe, Perforce, Typescript, Jira
+#### :star:New features: Haxe, Perforce, Typescript, Jira, Unity
 
 * Good problem solving skills
 * Coding and debugging.
