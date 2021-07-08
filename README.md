@@ -31,5 +31,6 @@
 
 *I have the ability to work independently as well as being part of a team*
 
-![Oana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimaOanaTeodora&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaOanaTeodora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
