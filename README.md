@@ -31,5 +31,5 @@
 
 *I have the ability to work independently as well as being part of a team*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Oana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimaOanaTeodora&show_icons=true&theme=radical)
 
