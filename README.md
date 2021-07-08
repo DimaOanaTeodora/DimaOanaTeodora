@@ -32,5 +32,7 @@
 *I have the ability to work independently as well as being part of a team*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaOanaTeodora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DimaOanaTeodora&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
