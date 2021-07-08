@@ -30,8 +30,3 @@
 * Ambitious, hard working, energetic and reliable
 
 *I have the ability to work independently as well as being part of a team*
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaOanaTeodora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
