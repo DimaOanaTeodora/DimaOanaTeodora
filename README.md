@@ -2,24 +2,10 @@
 
 # Hi, I'm Oana :wave:
 
-## :computer: Bachelor's Degree Student :computer:
-
-:peacock: Object Oriented Programming: C++, Java, Python
-
-:world_map: Database Management: SQL, PL/SQL
-
-:video_game: Game Engine: Godot
-
-:penguin: System calls, inter-process communication, threads, shell: C <-> Linux 
-
-:earth_americas: Web technologies: HTML5, CSS, JavaScript, NodeJs
-:blue_heart: Frameworks: ASP.NET MVC 5, ASP.NET 5
-
-:crystal_ball: Functional Programming: Haskell
-
-:framed_picture: Statistical computing and graphics: R
-
-#### :star:New features: Haxe, Perforce, Jira, Unity
+### :small_blue_diamond: Bachelor's Degree Student 
+:classical_building: University of Bucharest  
+### :small_blue_diamond: Associate Software Engineer 
+:factory: Electronic Arts Romania 
 
 * Good problem solving skills
 * Coding and debugging.
