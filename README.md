@@ -16,3 +16,5 @@
 * Ambitious, hard working, energetic and reliable
 
 *I have the ability to work independently as well as being part of a team*
+
+:medal_military: 46th place in the [Top GitHub Users By Public Contributions in Romania](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md) (February 2022)
