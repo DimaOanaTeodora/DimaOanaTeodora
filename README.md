@@ -4,7 +4,7 @@
 
 ### :small_blue_diamond: Bachelor's Degree Student 
 :classical_building: University of Bucharest  
-### :small_blue_diamond: Associate Software Engineer 
+### :small_blue_diamond: Software Engineer Game Modes  
 :factory: Electronic Arts Romania 
 
 * Good problem solving skills
