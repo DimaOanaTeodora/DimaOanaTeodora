@@ -2,7 +2,7 @@
 
 # Hi, I'm Oana :wave:
 
-### :small_blue_diamond: Bachelor's Degree Student 
+### :small_blue_diamond: Master's Degree Student 
 :classical_building: University of Bucharest  
 ### :small_blue_diamond: Software Engineer Game Modes  
 :factory: Electronic Arts Romania 
